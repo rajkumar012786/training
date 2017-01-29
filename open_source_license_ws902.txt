@@ -6,7 +6,7 @@ VMware Workstation 9.0.2 and VMware Player 5.0.2 GA
 
 The following copyright statements and licenses apply to various open
 source software components (or portions thereof) that are distributed with
-this VMware software products.
+dasddathis VMware software products.
 
 The VMware Product may also include other VMware components, which may contain additional open 
 source software packages. One or more such open_source_licenses.txt files may therefore 
