@@ -1,0 +1,54 @@
+
+# please add neccessary things to below responsbilities 
+
+  
+
+Puppet Devops Engineer
+Comcast - Mount Laurel,NJ
+       to Present
+
+Responsibilities: 
+ 
+• Setup and Configuration of Puppet Configuration Management. 
+ 
+• Worked on centos operating system to make puppet modules. 
+ 
+• Used advanced puppet techniques to puppetize.
+ 
+• Manage deployment automation using Puppet, MCollective, Hiera, Cutome Puppet modules, Ruby.
+ 
+• Created puppet manifests and modules to automate system operations.
+ 
+• Used standard skeleton structures like skel-minimal, skel-standard to write puppet code. 
+ 
+• Experience in writing define types, so the modules are reusable. 
+ 
+• Based on business requirements written roles and profiles to the modules to avoid the repetition and duplication of logic at node level. 
+ 
+• Automated the environment using puppet from scratch level. 
+ 
+• Automated the core module Puppet-limits using puppet, and to automate the entire environment. 
+ 
+• Involved in automating the WebLogic server installation, and its components using puppet. 
+ 
+• Automated the Jboss components like managed servers, data sources, mail resource, Jdbc, jms and tested. 
+ 
+• Automated the apache installation and its components using puppet. 
+ 
+• Performed unit testing, acceptance testing, using rake syntax, rake spec and rake beaker. 
+ 
+• Used GIT version control to push the modules to the GitHub. 
+ 
+• Created Branches, Labels and performed Merges in Stash and GIT. 
+
+• Delivered specific versions of various components of an application into target environments. 
+
+• Modelled the structure for Multi-tiered applications orchestrate the processes to Deploy each tier.
+ 
+• Have used Confluence to create, share and discuss content and projects. 
+
+• Familiar and experienced with Agile Scrum development. 
+
+• Proposed and implemented branching strategy suitable for Agile development in Subversion. 
+ 
+Environment: Puppet, Python, Ruby, Shell Script, Apache, WebLogic, Rake, Docker, Git.
